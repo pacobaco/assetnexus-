@@ -1,0 +1,5 @@
+date,account,description,amount,vendor,location,asset_ref
+2026-01-03,Equipment,Smart Lock Purchase,240,SecureEntry,Unit3B,SL001
+2026-01-05,Equipment,Camera System,480,VisionTech,Unit2C,SC001
+2026-02-10,Maintenance,Battery Replacement,25,SecureEntry,Unit3B,SL001
+2026-02-18,Maintenance,Lens Cleaning,30,VisionTech,Unit2C,SC001
